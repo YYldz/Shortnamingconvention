@@ -1,0 +1,7 @@
+C:\Users\Coldz\source\repos\carrt\carrt\bin\Debug\carrt.exe.config
+C:\Users\Coldz\source\repos\carrt\carrt\bin\Debug\carrt.exe
+C:\Users\Coldz\source\repos\carrt\carrt\bin\Debug\carrt.pdb
+C:\Users\Coldz\source\repos\carrt\carrt\obj\Debug\carrt.csprojResolveAssemblyReference.cache
+C:\Users\Coldz\source\repos\carrt\carrt\obj\Debug\carrt.csproj.CoreCompileInputs.cache
+C:\Users\Coldz\source\repos\carrt\carrt\obj\Debug\carrt.exe
+C:\Users\Coldz\source\repos\carrt\carrt\obj\Debug\carrt.pdb
